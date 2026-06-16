@@ -2,7 +2,9 @@
   {
     "code": "AAPL",
     "name": "苹果",
-    "price": 188.5,
-    "note": "100"
+    "buy_price": 188.5,
+    "current_price": 200.0,
+    "quantity": 100,
+    "note": "测试持仓"
   }
 ]
